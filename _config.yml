@@ -1,17 +1,21 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        "Brandon Trabucco"
+tagline:      "For a technologically advanced future, solving complex twenty-first century problems, I research machine learning, and develop computer applications."
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       "Brandon Trabucco"
+  url:        https://www.linkedin.com/in/brandontrabucco
+
+# Copyright
+copyright:
+  year:       "2017"
 
 # Gems
 plugins:
   - jekyll-paginate
 
-#Others
+# Others
 markdown: kramdown
