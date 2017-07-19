@@ -3,6 +3,7 @@ layout: post
 title:  "Hello from Jekyll"
 date:   2017-07-12 17:50:00
 categories: main
+permalink: "hello-world"
 ---
 
 This website was built using the Jekyll static page generator engine. This tool supports markdown, and has rich syntax highlighting for code snippets.
