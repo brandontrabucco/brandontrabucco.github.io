@@ -10,7 +10,7 @@ title: {{ site.name }}
     <ul class="posts">
         {% for post in site.posts %}
             <li>
-                <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+                <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
                 <p><span>{{ post.date | date_to_string }}</span></p>
                 <p>{{ post.excerpt }}</p>
             </li>
