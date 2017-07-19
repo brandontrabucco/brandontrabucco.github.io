@@ -656,3 +656,15 @@ a {
 .site-footer-credits {
     color: #819198;
 }
+
+.posts {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+    .posts li {
+        padding: 0;
+        margin: 0;
+        display: block;
+    }
